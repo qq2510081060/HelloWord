@@ -1,6 +1,5 @@
 package com.kgc;
 
-import java.sql.SQLOutput;
 
 public class cc {
     public static void main(String[] args) {
